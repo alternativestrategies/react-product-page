@@ -12,13 +12,13 @@ const Navigation = () => {
             <Navbar.Collapse>
                 <Nav className="ml-auto" >
                     <Nav.Item >
-                    <A href="/react-product-page/" className={path === "/" ? 'active' : 'normal'} >Home</A>
+                    <A href="/react-product-page/" className={path === "/react-product-page/" ? 'active' : 'normal'} >Home</A>
                     </Nav.Item>
                     <Nav.Item >
-                    <A href="/react-product-page/products" className={path === "/products" ? 'active' : 'normal'}>Products</A>
+                    <A href="/react-product-page/products" className={path === "/react-product-page/products" ? 'active' : 'normal'}>Products</A>
                     </Nav.Item>
                     <Nav.Item >
-                    <A href="/react-product-page/contact" className={path === "/contact" ? 'active' : 'normal'}>Contact</A>
+                    <A href="/react-product-page/contact" className={path === "/react-product-page/contact" ? 'active' : 'normal'}>Contact</A>
                     </Nav.Item>
                 </Nav>
             </Navbar.Collapse>
