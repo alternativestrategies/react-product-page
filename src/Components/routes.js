@@ -5,8 +5,8 @@ import Contact from './Contact/';
 
 const routes =  {
   "/react-product-page/": () => <Home /> ,
-  "/products": () => <ProductList />,
-  "/contact": () => <Contact /> 
+  "/react-product-page/products": () => <ProductList />,
+  "/react-product-page/contact": () => <Contact /> 
 };
  
 export default routes;
