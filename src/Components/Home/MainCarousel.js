@@ -8,7 +8,7 @@ const MainCarousel = () => {
   <Carousel.Item>
     <img
       className="caro-img"
-      src="/assets/img/writing.jpg"
+      src="assets/img/writing.jpg"
       alt="First slide"
     />
     <Carousel.Caption>
@@ -19,7 +19,7 @@ const MainCarousel = () => {
   <Carousel.Item>
     <img
       className="caro-img"
-      src="/assets/img/black-pencil.jpg"
+      src="assets/img/black-pencil.jpg"
       alt="Third slide"
     />
 
@@ -31,7 +31,7 @@ const MainCarousel = () => {
   <Carousel.Item>
     <img
       className="caro-img"
-      src="/assets/img/pink-journal.jpg"
+      src="assets/img/pink-journal.jpg"
       alt="Third slide"
     />
 
