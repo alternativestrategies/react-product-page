@@ -9,7 +9,7 @@ const Header = () => {
         <Row>
             <Col md={12}>
                 <h1 className="text-center">
-                    <a href="/react-product-page/">
+                    <a href="/">
                     <span>ARELY'S</span> 
                     Stationary Box
                     </a>
