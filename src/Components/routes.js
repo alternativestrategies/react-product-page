@@ -4,7 +4,7 @@ import ProductList from './ProductList/'
 import Contact from './Contact/';
 
 const routes =  {
-  "/": () => <Home /> ,
+  "/react-product-page/": () => <Home /> ,
   "/products": () => <ProductList />,
   "/contact": () => <Contact /> 
 };
